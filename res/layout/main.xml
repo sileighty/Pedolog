@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+
+<TableLayout android:id="@+id/TableLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"><TextView android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ぺどろぐ あぷり" android:textColor="#00FFFF" android:textSize="25sp"></TextView>
+<TextView android:id="@+id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textSize="40sp" android:text="000000"></TextView>
+
+<Button android:id="@+id/Button02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="登録"></Button><Button android:id="@+id/Button01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="リセット"></Button>
+
+
+
+<ImageView android:id="@+id/ImageView01" android:layout_width="wrap_content" android:layout_height="wrap_content"></ImageView>
+<TextView android:id="@+id/TextView03" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+<TextView android:id="@+id/TextView04" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+<TextView android:id="@+id/TextView05" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+<TextView android:id="@+id/TextView06" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+<TextView android:id="@+id/TextView07" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+</TableLayout>
